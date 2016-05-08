@@ -1,0 +1,16 @@
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\bin\Debug\MultiFaceRec.exe
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\bin\Debug\MultiFaceRec.pdb
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\FaceDetectNRecognize.csprojResolveAssemblyReference.cache
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\MultiFaceRec.CameraCapture.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working\obj\x86\Debug\FaceDetectNRecognize.csproj.GenerateResource.Cache
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\MultiFaceRec.exe
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\MultiFaceRec.pdb
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\bin\Debug\MultiFaceRec.exe
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\bin\Debug\MultiFaceRec.pdb
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\FaceDetectNRecognize.csproj.GenerateResource.Cache
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\MultiFaceRec.FaceDetectNRecognize.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\DetectionNRecognition Working - Copy\obj\x86\Debug\FaceDetectNRecognize.csprojResolveAssemblyReference.cache

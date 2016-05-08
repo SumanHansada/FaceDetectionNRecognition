@@ -1,0 +1,4 @@
+C:\Users\suman\Documents\Visual Studio 2015\Projects\FaceRecProOV\obj\x86\Release\MultiFaceRec.csprojResolveAssemblyReference.cache
+C:\Users\suman\Documents\Visual Studio 2015\Projects\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\suman\Documents\Visual Studio 2015\Projects\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
